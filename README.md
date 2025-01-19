@@ -1,5 +1,7 @@
 # Disease_Prediction
 
+This model is deployed on streamlit you can check by clicking on this link: https://diseaseprediction-gds6zhpfpwca9cpxjqrtpd.streamlit.app/
+
 # Disease Detection System
 
 This project is aimed at predicting the type of disease a person may have based on various symptoms. The system takes in a set of symptoms and outputs a predicted disease. The disease categories include conditions such as allergies, infections, chronic diseases, and other common health issues.
